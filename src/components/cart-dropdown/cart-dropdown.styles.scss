@@ -10,6 +10,11 @@
     background: #fff;
     z-index: 9999;
     
+    .empty-message{
+        font-size: 18px;
+        margin: 50px auto;
+    }
+    
     .cart-items {
         height: 240px;
         overflow: scroll;
