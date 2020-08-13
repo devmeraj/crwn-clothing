@@ -21,5 +21,15 @@
 
     .quantity {
         margin-left: 15px;
+        display: flex;
+
+        .arrow {
+            margin: 0 10px;
+            cursor: pointer;
+        }
+    }
+
+    .remove {
+        cursor: pointer;
     }
 }
